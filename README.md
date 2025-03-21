@@ -15,13 +15,12 @@ I'm Urvi Joshi, a passionate coder and problem-solver on a journey of continuous
 Here's a snapshot of my recent work:
 
 * **MentalHealth-MindMatics-B.E:** Contributing to a project focused on mental health, combining frontend and backend development. ([Link to Repo](https://github.com/UrviJoshi24/MentalHealth-MindMatics-B.E))
-* **AI-Generated-Text-Detection-Project:** Developing a web app using NLP to detect AI-generated text. ([Link to Repo](https://github.com/UrviJoshi24/AI-Generated-Text-Detection-Project))
+* **AI-Generated-Text-Detection-Project:** Developed a web app using NLP to detect AI-generated text. ([Link to Repo](https://github.com/UrviJoshi24/AI-Generated-Text-Detection-Project))
 * **Blockchain_MailMaster & MailMaster-AI-Email-Generator:** Exploring blockchain and AI applications in email management. ([Link to Repos](https://github.com/UrviJoshi24/Blockchain_MailMaster), [Link to Repo](https://github.com/UrviJoshi24/MailMaster-AI-Email-Generator))
-* **CrackYourPlacement:** Contributing to a DSA resource using Java. ([Link to Repo](https://github.com/UrviJoshi24/CrackYourPlacement))
 * **Tourism_App:** A Flutter app for exploring India's tourism. ([Link to Repo](https://github.com/UrviJoshi24/Tourism_App))
 
 ## Tech Stack 🛠️
-Python, JavaScript, Java, HTML, Svelte, Dart, React, Django, Flutter, Git
+Python, JavaScript, Java, HTML, Svelte, Dart, React, Django, Flutter, Git, Cloud Computing, AWS
 
 
 ## Connect With Me 🔗
