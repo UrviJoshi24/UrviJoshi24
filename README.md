@@ -1,4 +1,4 @@
-# Hello, I'm Urvi Joshi ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
+# Hello, I'm Urvi Joshi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
 <div align="center">
   
@@ -86,6 +86,22 @@ I'm a passionate coder and problem-solver on a journey of continuous learning. I
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
+</div>
+
+## 💻  Coding Profile
+<div align="center">
+  <a href="https://leetcode.com/u/urvi_joshi/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
+  </div>
+
+## ⌨️ Typing Speed
+
+<div align="center">
+  <a href="https://monkeytype.com/profile/Urvi_Joshi">
+    <img src="https://img.shields.io/badge/MonkeyType-D7FF64?style=for-the-badge&logo=monkeytype&logoColor=black" alt="MonkeyType"/>
+  </a>
+  <p>Check out my typing speed on MonkeyType!</p>
 </div>
 
 ## 📊 GitHub Stats
