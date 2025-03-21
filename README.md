@@ -4,8 +4,7 @@
   
   ![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Urvi%20Joshi&fontSize=50&fontAlignY=35&animation=fadeIn)
   
-  <p><em>Software Developer | AI Enthusiast | Blockchain Explorer</em></p>
-  <p>👩‍💻 she/her</p>
+  <p><em>Software Developer | Cloud Explorer | AI Enthusiast |</em></p>
 
   [![Linkedin: urvi-joshi](https://img.shields.io/badge/-Urvi_Joshi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/urvi-joshi-7b1974228/)](https://www.linkedin.com/in/urvi-joshi-7b1974228/)
   [![GitHub UrviJoshi24](https://img.shields.io/github/followers/UrviJoshi24?label=follow&style=social)](https://github.com/UrviJoshi24)
@@ -22,7 +21,9 @@ I'm a passionate coder and problem-solver on a journey of continuous learning. I
 - 💡 **Driven by:** The challenge of turning complex problems into elegant, efficient solutions
 - 🧠 **Believes in:** The power of code to create meaningful impact
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
+<div align="center">
+  <img alt="Coding" width="350" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
+</div>
 
 ## 🚀 Featured Projects
 
@@ -91,7 +92,6 @@ I'm a passionate coder and problem-solver on a journey of continuous learning. I
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=UrviJoshi24&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UrviJoshi24&theme=radical" alt="GitHub Streak" />
 </div>
 
 <div align="center">
@@ -111,12 +111,17 @@ I'm a passionate coder and problem-solver on a journey of continuous learning. I
 
 I enjoy exploring new technologies and often find myself diving into projects that combine different fields, like AI and blockchain! When not coding, you can find me exploring hiking trails and experimenting with new cooking recipes!
 
-## 📌 Highlighted Contributions
+## 🤝 Let's Connect
 
 <div align="center">
+  <p>I'm always open to collaborating on projects and innovative ideas! Feel free to reach out if you're looking for a developer or just want to connect.</p>
   
-  ![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=UrviJoshi24&theme=redical)
-  
+  <a href="https://www.linkedin.com/in/urvi-joshi-7b1974228/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:urvigithub334@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 </div>
 
 ---
