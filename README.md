@@ -87,7 +87,7 @@ I'm a passionate coder and problem-solver on a journey of continuous learning. I
   </a>
 </div>
 
-## ⚡ GitHub Activity
+## ⚡GitHub Activity
 
 <div align="center">
   
@@ -96,7 +96,7 @@ I'm a passionate coder and problem-solver on a journey of continuous learning. I
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=UrviJoshi24&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
-##📊 GitHub Stats
+## 📊 GitHub Stats
 <div align="center">
   <table>
     <tr>
