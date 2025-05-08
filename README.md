@@ -96,14 +96,71 @@ I'm a passionate coder and problem-solver on a journey of continuous learning. I
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=UrviJoshi24&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
-## 📊 GitHub Stats
-
+##📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UrviJoshi24&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UrviJoshi24&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <table>
+    <tr>
+      <td>
+        <div align="center" style="background-color: #1a1b27; border-radius: 10px; padding: 20px;">
+          <h3>Urvi Joshi's GitHub Stats</h3>
+          <table>
+            <tr>
+              <td>⭐ Total Stars Earned:</td>
+              <td>4</td>
+            </tr>
+            <tr>
+              <td>🕒 Total Commits (2025):</td>
+              <td>46</td>
+            </tr>
+            <tr>
+              <td>🔄 Total PRs:</td>
+              <td>19</td>
+            </tr>
+            <tr>
+              <td>❗ Total Issues:</td>
+              <td>1</td>
+            </tr>
+            <tr>
+              <td>📘 Contributed to (last year):</td>
+              <td>8</td>
+            </tr>
+          </table>
+        </div>
+      </td>
+      <td>
+        <div align="center" style="background-color: #1a1b27; border-radius: 10px; padding: 20px;">
+          <h3>Most Used Languages</h3>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UrviJoshi24&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+          <table>
+            <tr>
+              <td>🟠 HTML</td>
+              <td>43.19%</td>
+            </tr>
+            <tr>
+              <td>🟡 JavaScript</td>
+              <td>24.96%</td>
+            </tr>
+            <tr>
+              <td>🔵 Python</td>
+              <td>21.98%</td>
+            </tr>
+            <tr>
+              <td>🟢 Dart</td>
+              <td>4.55%</td>
+            </tr>
+            <tr>
+              <td>🟣 CSS</td>
+              <td>3.03%</td>
+            </tr>
+            <tr>
+              <td>🟤 Java</td>
+              <td>2.30%</td>
+            </tr>
+          </table>
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## ⌨️ Typing Speed
